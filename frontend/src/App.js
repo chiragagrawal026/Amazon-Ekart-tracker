@@ -25,7 +25,7 @@ function App() {
               </LinkContainer>
             </Nav>
             <Nav>
-              <Nav.Link href=" ">
+              <Nav.Link href="https://github.com/chiragagrawal026/Amazon-Ekart-tracker">
                 Github
               </Nav.Link>
             </Nav>
