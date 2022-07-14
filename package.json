@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MananJethwani/amazon-ekart-tracker.git"
+    "url": "git+https://github.com/chiragagrawal026/Amazon-Ekart-tracker.git"
   },
   "author": "mananjethwani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MananJethwani/amazon-ekart-tracker/issues"
+    "url": "https://github.com/chiragagrawal026/Amazon-Ekart-tracker/issues"
   },
-  "homepage": "https://github.com/MananJethwani/amazon-ekart-tracker#readme",
+  "homepage": "https://github.com/chiragagrawal026/Amazon-Ekart-tracker#readme",
   "dependencies": {
     "axios": "^0.21.4",
     "cors": "^2.8.5",
